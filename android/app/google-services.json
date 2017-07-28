@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212271761577",
+    "project_id": "bestfriends-172716"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212271761577:android:4b141fcd67dfcb4e",
+        "android_client_info": {
+          "package_name": "com.bestfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212271761577-m85oapbtaovb49uca2apnlg4rigsjcig.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "212271761577-pmi3qm58o7q0onvgskifcufb59ll1kh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bestfriends",
+            "certificate_hash": "ff3264a9b5b513cc000245704fad0235a1bb4789"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGOIdBQzgZHTg5BQw8lrnEXYHn8qKjj0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
